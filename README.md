@@ -16,3 +16,8 @@ Calculator translated from x86 Assembly to C with some added functions.
 * **Upper**: takes in 1) running result and 2) a pointer to an ascii string. The function should upper case any lower case characters in the string and return the addition of the string length to the running result.
 * **Atoq**: Takes in 1) the current running result and 2) add a pointer to an ascii string.  It should attempt to decode and ascii integer from the beginning of the string into an 8 byte signed value and then call the csum function on the running result and the decoded value updating the running result.
 * **Popcnt**: Takes in 1) the running result and 2) a signed integer value y.  The function should calculate the number of 1 bits in y and return the addition of this count and the running result
+
+# Installation Guide:
+Clone this repository locally.
+
+git clone 
