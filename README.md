@@ -20,4 +20,8 @@ Calculator translated from x86 Assembly to C with some added functions.
 # Installation Guide:
 Clone this repository locally.
 
-git clone 
+git clone https://github.com/EricNohara/C-Calculator.git
+
+## Demo Images:
+![C_Calculator PNG](https://github.com/EricNohara/C-Calculator/assets/123284198/dc3528e2-bc90-46e9-b4da-0517ab9637cb)
+
